@@ -6,6 +6,7 @@ Assignment 3
 
 #include "pet.h"
 
+//this main function creates two instances of the object, pet and outputs their information
 int main()  {
   //making two instances of pets
   Pet *pet1 = new Pet("Mr. Waffles", 10, "Dog", 18.6);

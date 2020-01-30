@@ -3,7 +3,10 @@ Jason Song
 CPSC 298 interterm
 Assignment 3
 */
+
 #include "pet.h"
+
+//this file consists of functions that help change or access certain info about pets
 
 //default constructor function
 Pet::Pet()  {
